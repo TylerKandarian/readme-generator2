@@ -22,6 +22,9 @@ To install the user needs to clone the repo and have Node installed. Once that i
 ## Usage
 
 ![ScreenShot from application](./Assets/generator%20image.PNG)
+
+Video: https://app.castify.com/view/87d8b5db-215a-44ea-a240-0b679dc40c1d
+
 You use the Inquirer from your command line and then answer the questions about your desired project.
 
 ## License
