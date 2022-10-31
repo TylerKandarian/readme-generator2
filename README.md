@@ -33,7 +33,7 @@ This project is license under MIT
 
 ## Contributing
 
-At this time there is no need to contriubute.
+At this time there is no need to contribute.
 
 ## Tests
 
@@ -41,4 +41,5 @@ npm test
 
 ## Questions
 
-If you have any questions about this project, please email at Tyler.Kand2@gmail.com. You can view more of my projects at https://github.com/TylerKandarian.
+If you have any questions about this project, please email at Tyler.Kand2@gmail.com.
+You can view more of my projects at https://github.com/TylerKandarian.
